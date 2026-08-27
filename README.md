@@ -388,13 +388,6 @@ Other factors that may influence results include:
 * Limited sample size
 
 ---
-
-# 📚 Citation
-
-If you use this repository, please cite the associated replication study and this repository.
-
-> Citation information will be added here once the final paper/report citation is available.
-
 ---
 
 # 👨‍💻 Author
